@@ -6,7 +6,7 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="100" height="100"/> </a> 
 </p>
 
-<h3 align="center">Unity Certified Professional: Programmer</h3>
+<h3 align="center">Certified </h3>
 <p align="center" 
 <a href="https://www.credly.com/badges/045c0af9-dd03-4d7f-a01e-c7d4bd290127/" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/340x340/images/05915903-c7fd-4256-8754-9ff9e9e6465e/image.png" alt="unity" width="100" height="100"/> </a> 
 </p>
