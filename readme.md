@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=menstood&show_icons=true&locale=en" alt="menstood" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=menstood&show_icons=true&locale=en" alt="menstood" /></p>
 </p>
 
 <h3 align="left">Connect with me:</h3>
