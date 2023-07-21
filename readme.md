@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gitti Ekchan</h1>
 <h3 align="center">I'm just a Technical Artist</h3>
 
-<h3 align="center">Main</h3>
+<h3 align="center">Specialty</h3>
 <p align="center" 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="100" height="100"/> </a> 
 </p>
