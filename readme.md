@@ -31,7 +31,7 @@ I blend creativity with technical skills to bring interactive visuals to life—
 ### 📫 How to reach me
 
 - LinkedIn: [linkedin.com/in/gitti-ekchan](gitti-ekchan)
-- Facebook: [facebook.com/thisisunityth]([https://facebook.com/gittiekchan](https://www.facebook.com/thisisunityth))
+- Facebook: [facebook.com/thisisunityth](https://www.facebook.com/thisisunityth)
 - Sessionize: [sessionize.com/gittitat-ekchantawut](https://sessionize.com/gittitat-ekchantawut)
 ---
 
